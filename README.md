@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @khushi-chaudhary29
-- 👀 I’m interested in web development and machine learning
-- 🌱 I’m currently learning c programming language
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning Advance Java Programming language
 - 💞️ I’m looking to collaborate on website
 - 📫 How to reach me ...
 
